@@ -35,6 +35,8 @@ The **WhatsApp Chat Analyzer** project is dedicated to providing users with a po
 
 <h1>Screenshot</h1>
 <img src="https://github.com/Dhruvil03/WhatsApp_Chat_Analyzer/assets/90698427/7bfcd05f-e3e8-43dc-83a3-2582e107e8d6" alt="Initial Lines of chat">
-
+<img src="https://github.com/Dhruvil03/WhatsApp_Chat_Analyzer/assets/90698427/698c8291-1bad-4599-80ba-a412c747440e">
+<img src="https://github.com/Dhruvil03/WhatsApp_Chat_Analyzer/assets/90698427/1ccd390e-cd62-467d-9d22-5d5599f9bf04">
+<img src="https://github.com/Dhruvil03/WhatsApp_Chat_Analyzer/assets/90698427/5a3d54dd-7f85-4a05-b32d-5b2e6bb7c08a" >
 
 
