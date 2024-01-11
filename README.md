@@ -1,5 +1,5 @@
 # WhatsApp_Chat_Analyzer
-The WhatsApp Chat Analyzer project is dedicated to providing users with a powerful and sophisticated tool for conducting in-depth analysis of their WhatsApp conversations. In an age defined by extensive communication through messaging platforms, this project offers users valuable insights into their chat data. By employing advanced data analysis techniques and compelling visualizations, this application empowers users to uncover meaningful patterns, sentiment trends, and communication dynamics within their WhatsApp conversations.
+The **WhatsApp Chat Analyzer** project is dedicated to providing users with a powerful and sophisticated tool for conducting in-depth analysis of their WhatsApp conversations. In an age defined by extensive communication through messaging platforms, this project offers users valuable insights into their chat data. By employing advanced data analysis techniques and compelling visualizations, this application empowers users to uncover meaningful patterns, sentiment trends, and communication dynamics within their WhatsApp conversations.
 
 <h2>Features</h2> 
 
@@ -19,16 +19,16 @@ A word cloud visually represents frequently used words from the combined message
 Monthly and daily usage charts showcase the volume of messages over time.
 An activity map illustrates communication intensity by day and hour of the week.
 <br>
-<h2>4. Participant Analysis**<br></h2>
+<h2>4. Participant Analysis<br></h2>
 The application identifies and displays the most active participants based on their message counts.
 Participant counts are computed and presented in a clear format.
 <br>
-<h2>5. User Interaction and Execution**<br></h2>
+<h2>5. User Interaction and Execution<br></h2>
 The main function orchestrates the entire process by calling necessary functions and executing the analysis.
 Users provide the path to the WhatsApp chat data file, which is then parsed and analyzed.
 Analysis results, including sentiment analysis, emoji usage, visualizations, and participant information, are displayed for the user.
 <br>
-<h2>6. Technologies and Libraries Used**<br></h2>
+<h2>6. Technologies and Libraries Used<br></h2>
 The architecture leverages various Python libraries, including Pandas, NumPy, Matplotlib, and TextBlob.
 Regular expressions (regex) are employed for effective data extraction and manipulation.
 The architecture is designed to be executed locally, providing users with the convenience of running the analysis on their own machines.
