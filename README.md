@@ -32,3 +32,8 @@ The **WhatsApp Chat Analyzer** project is dedicated to providing users with a po
 <li>The architecture leverages various Python libraries, including Pandas, NumPy, Matplotlib, and TextBlob.</li>
 <li>Regular expressions (regex) are employed for effective data extraction and manipulation.</li>
 <li>The architecture is designed to be executed locally, providing users with the convenience of running the analysis on their own machines.</li>
+
+<h1>Screenshot</h1>
+![image](https://github.com/Dhruvil03/WhatsApp_Chat_Analyzer/assets/90698427/b81b8eb1-75df-4168-92ea-808e9cd0f6a1)
+
+
