@@ -34,7 +34,7 @@ The **WhatsApp Chat Analyzer** project is dedicated to providing users with a po
 <li>The architecture is designed to be executed locally, providing users with the convenience of running the analysis on their own machines.</li>
 
 <h1>Screenshot</h1>
-![SS1](https://github.com/Dhruvil03/WhatsApp_Chat_Analyzer/assets/90698427/7bfcd05f-e3e8-43dc-83a3-2582e107e8d6)
+<img src="https://github.com/Dhruvil03/WhatsApp_Chat_Analyzer/assets/90698427/7bfcd05f-e3e8-43dc-83a3-2582e107e8d6" alt="Initial Lines of chat">
 
 
 
