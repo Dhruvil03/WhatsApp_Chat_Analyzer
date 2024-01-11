@@ -15,7 +15,7 @@ The **WhatsApp Chat Analyzer** project is dedicated to providing users with a po
 <br>
 <h2>3. Data Analysis and Visualization<br></h2>
 <li>Various data analysis techniques and visualizations are incorporated to provide insights:</li>
-<ul><li>A word cloud visually represents frequently used words from the combined messages.</li>
+<ul style="list-style:disc;"><li>A word cloud visually represents frequently used words from the combined messages.</li>
 <li>Monthly and daily usage charts showcase the volume of messages over time.</li>
 <li>An activity map illustrates communication intensity by day and hour of the week.</li></ul>
 <br>
