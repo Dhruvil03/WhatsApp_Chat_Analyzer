@@ -1,4 +1,4 @@
-# WhatsApp_Chat_Analyzer
+# WhatsApp Chat Analyzer
 The **WhatsApp Chat Analyzer** project is dedicated to providing users with a powerful and sophisticated tool for conducting in-depth analysis of their WhatsApp conversations. In an age defined by extensive communication through messaging platforms, this project offers users valuable insights into their chat data. By employing advanced data analysis techniques and compelling visualizations, this application empowers users to uncover meaningful patterns, sentiment trends, and communication dynamics within their WhatsApp conversations.
 
 <h2>Features</h2> 
